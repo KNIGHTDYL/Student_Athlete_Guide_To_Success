@@ -1,0 +1,14 @@
+body{
+	background: #EFF0EC;
+	font-family: arial;
+}
+
+h1{
+	background: black;
+	color: #EFF0EC;
+	padding:  15px
+}
+
+.secondary{
+	padding: 15px 10000px 15px 0px;
+}
